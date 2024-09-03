@@ -1,0 +1,14 @@
+.navbar{
+    /* margin-left:50px ; */
+    /* padding-left: 50px; */
+    height:80px;
+    width:100wh;
+    background-color: blue;
+}
+.head{
+    padding-left: 50px;
+
+    height:400px;
+    width:400px;
+    background-color: red;
+}
